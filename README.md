@@ -1,1 +1,1 @@
-# SEP10-CYOA-project-60-sec-until-the-world-ends
+# SEP10-CYOA project: 60 seconds until the world ends

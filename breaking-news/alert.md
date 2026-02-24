@@ -1,8 +1,10 @@
 # BREAKING NEWS
 ## The world is about to end in 60 seconds!
 ### **what do you do?**
-#### [run outside]()
 
-#### [ignore the warning]()
+### [ignore the warning]()
+### [run outside]()
+### [play the lottery](you-win-the-lottery.md)
 
-#### [play lottery]()
+
+

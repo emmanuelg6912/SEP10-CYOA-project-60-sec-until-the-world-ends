@@ -4,4 +4,6 @@
 
 ### [ignore the warning]()
 ### [run outside]()
-### [play the lottery]()
+### [play the lottery](you-win-the-lottery.md)
+
+

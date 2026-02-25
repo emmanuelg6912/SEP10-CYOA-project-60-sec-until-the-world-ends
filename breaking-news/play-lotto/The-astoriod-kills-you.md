@@ -1,3 +1,3 @@
-# The asteroid hits you!!
-
-[Start Over](alert.md)
+# GAME OVER
+## The asteroid ended up hitting  you!!
+### [Start Over](../alert.md)

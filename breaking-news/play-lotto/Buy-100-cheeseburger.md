@@ -4,4 +4,4 @@
 ## [Do nothing](The-astoriod-kills-you.md)
 
 ---
-[Start Over](alert.md)
+[Start Over](../alert.md)

@@ -5,4 +5,4 @@ What ship will you choose?
 ## [The blue and big rocket ship](blue-rocket-ship.md)
 
 ---
-[Start Over](../alert.md)
+[Start Over](alert.md)

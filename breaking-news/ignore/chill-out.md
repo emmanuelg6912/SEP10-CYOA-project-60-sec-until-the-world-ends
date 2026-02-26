@@ -2,4 +2,12 @@
 
 ## there was no meteor crashing into the earth
 
-### [start over](../alert.md)
+you see your telivision glitching. It feels like its sucking you in
+
+## what do you do?
+
+### [go inside](go-in.md)
+### [turn it off](turn-off.md)
+
+---
+#### [start over](../alert.md)

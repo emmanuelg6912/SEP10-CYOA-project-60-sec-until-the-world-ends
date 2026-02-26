@@ -1,6 +1,5 @@
 # GAME OVER
 
-## the meteor has killed everyone
+## that was pretty useless...
 
----
 #### [start over](../alert.md)

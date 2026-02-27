@@ -2,4 +2,4 @@
 
 ## that was pretty useless...
 
-#### [start over](../alert.md)
+#### [start over](../../alert.md)

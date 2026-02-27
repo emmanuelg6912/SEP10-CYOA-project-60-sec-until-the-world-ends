@@ -8,4 +8,4 @@ you see a headset guarded by a flock of birds. You also see a piece of bread on 
 ### [fight the birds](throw.md)
 ### [feed the birds the bread](headset.md)
 
-#### [start over](../alert.md)
+#### [start over](../../alert.md)

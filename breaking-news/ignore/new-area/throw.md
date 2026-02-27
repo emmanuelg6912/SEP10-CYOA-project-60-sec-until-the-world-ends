@@ -2,4 +2,4 @@
 
 ## The birds threw you off
 
-#### [start over](../alert.md)
+#### [start over](../../alert.md)

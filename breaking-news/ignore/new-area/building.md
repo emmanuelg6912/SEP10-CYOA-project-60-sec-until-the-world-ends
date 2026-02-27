@@ -8,4 +8,4 @@ you look up and see a large set of spiraling steps leading all the way to the to
 ### [go back to the ufo](ufo.md)
 
 ---
-#### [start over](../alert.md)
+#### [start over](../../alert.md)

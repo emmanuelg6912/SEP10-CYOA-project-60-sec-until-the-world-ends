@@ -5,4 +5,4 @@
 a researcher comes in and tells you that it was all just virtual reality
 
 ---
-#### [start over](../alert.md)
+#### [start over](../../alert.md)

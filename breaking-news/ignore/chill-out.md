@@ -6,7 +6,7 @@ you see your telivision glitching. It feels like its sucking you in
 
 ## what do you do?
 
-### [go inside](go-in.md)
+### [go inside](new-area/go-in.md)
 ### [turn it off](turn-off.md)
 
 ---

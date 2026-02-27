@@ -8,4 +8,4 @@ you spot a UFO in a vast plain and a green building
 ### [go to the building](building.md)
 
 ---
-#### [start over](../alert.md)
+#### [start over](../../alert.md)
